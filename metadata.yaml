@@ -1,0 +1,39 @@
+_repo: Scouting-For-Girls-Official-Handbook-of-the-Girl-Scouts_28490
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28490-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Girl Scouts of the United States of America
+    alias: America, Girl Scouts of the United States of
+    gutenberg_agent_id: '33359'
+    url: http://www.gutenberg.org/2009/agents/33359
+  editor:
+    agent_name: Bacon, Josephine Daskam
+    aliases:
+    - Daskam, Josephine Dodge
+    - Bacon, Selden, Mrs.
+    - Bacon, Josephine Dodge Daskam
+    - Lovell, Ingraham
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '9246'
+    url: http://www.gutenberg.org/2009/agents/9246
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
+description: A guide established by American in 1922 to help girls become capable
+  and responsible citizens.
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2009-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Girl Scouts -- Handbooks, manuals, etc.'
+title: Scouting For Girls, Official Handbook of the Girl Scouts
+url: http://www.gutenberg.org/ebooks/28490
