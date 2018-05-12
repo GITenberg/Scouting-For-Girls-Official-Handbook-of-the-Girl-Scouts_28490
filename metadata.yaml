@@ -23,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
 description: A guide established by American in 1922 to help girls become capable
   and responsible citizens.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28490#Scouting-For-Girls-Official-Handbook-of-the-Girl-Scouts
 gutenberg_bookshelf: Scouts
 gutenberg_issued: '2009-04-04'
 gutenberg_type: Text
